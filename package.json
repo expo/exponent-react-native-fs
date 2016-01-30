@@ -1,0 +1,31 @@
+{
+  "name": "@exponent/react-native-fs",
+  "version": "1.2.0",
+  "description": "Native filesystem access for react-native, exponent version",
+  "main": "FS.common.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:exponentjs/exponent-react-native-fs.git"
+  },
+  "keywords": [
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "fs",
+    "filesystem"
+  ],
+  "author": "Nikhilesh Sigatapu <nikhilesh@exp.host>",
+  "license": "MIT",
+  "dependencies": {
+    "base-64": "^0.1.0",
+    "bluebird": "^2.9.25",
+    "utf8": "^2.1.1"
+  },
+  "devDependencies": {
+    "react-native": "*"
+  }
+}
